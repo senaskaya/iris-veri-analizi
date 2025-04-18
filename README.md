@@ -21,7 +21,7 @@ Bu projede, klasik **Iris veri seti** kullanılarak temel veri görselleştirme 
 **Hedef (target):**
 - Çiçek türü (*species*)
 
-## 🖼️ Örnek Görsel Çıktı
+## 🖼️ Pairplot Çıktı
 
 Bu görselde, türleri ayırmada taç yaprağın (petal) çanak yapraktan (sepal) daha güçlü olduğu görülebilir. Ayrıca petal_lenght ve petal_widh özellikleri arasında korelasyon olduğunu söyleyebiliriz. Çünkü birlikte azalma ve artma göstermişler.
 
