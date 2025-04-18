@@ -18,6 +18,11 @@ Bu projede, klasik **Iris veri seti** kullanılarak temel veri görselleştirme 
 - Petal length (cm)
 - Petal width (cm)
 
+Ortalama min ve max değerlerini aşağıdaki tabloda görebilirsiniz:
+![info](info.png)
+
+  **Not:** Eksik veri (null) bulunmamaktadır.
+
 **Hedef (target):**
 - Çiçek türü (*species*)
 
